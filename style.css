@@ -1,0 +1,40 @@
+#cat-box {
+  background-color:#E5CCFF;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+.spacing {
+  margin-bottom:20px;
+}
+#portfolio-header, #about-header, #contact-header, #about-this-page-header {
+  font-family: 'Concert One', cursive;
+}
+#about-div{
+  background-color:#CCE5FF;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+#contact-div {
+  background-color: #FFCCE5;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+#about-this-page-div {
+  background-color: #FFE5CC;
+  padding-top:20px;
+  padding-bottom:20px;
+  margin-bottom:20px;
+}
+#about-header {
+  margin-top: 70px;
+}
+#submit-button {
+  margin-top:10px;
+  margin-left:15px;
+}
+#everything {
+  background-color: #F0F8FF
+}
+h4 {
+  font-family:'Dosis', sans-serif;
+}
